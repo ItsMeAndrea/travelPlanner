@@ -10,7 +10,7 @@ import { Container, Content, Button, Icon, Text, ListItem } from "native-base";
 
 const locations = [
   {
-    name: "Brasil",
+    name: "Peru",
     id: "1",
   },
   {
